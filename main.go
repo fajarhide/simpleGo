@@ -4,7 +4,7 @@ import (
 	"github.com/labstack/echo"
 	"github.com/labstack/echo/middleware"
 	"net/http"
-	"github.com/fajarhide/SimpleGo/controllers"
+	"github.com/fajarhide/simpleGo/controllers"
 )
 
 func main() {

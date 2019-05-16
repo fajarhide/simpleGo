@@ -2,7 +2,7 @@ package models
  
 import (
 	_"database/sql"
-	"echo_with_mysql_mvc/db"
+	"github.com/fajarhide/simpleGo/db"
 	"fmt"
 	"database/sql"
 )

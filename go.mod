@@ -1,4 +1,4 @@
-module github.com/fajarhide/SimpleGo
+module github.com/fajarhide/simpleGo
 
 go 1.12
 

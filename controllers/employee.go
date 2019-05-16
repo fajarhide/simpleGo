@@ -1,7 +1,7 @@
 package controllers
  
 import (
-	"echo_with_mysql_mvc/models"
+	"github.com/fajarhide/simpleGo/models"
 	"net/http"
 	"github.com/labstack/echo"
 )
